@@ -1,38 +1,47 @@
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@700&display=swap');
 /*header*/
 
-header{
- background-color: #aeae7f;
+header {
+    background-color: #aeae7f;
 
 }
+
 /*icons*/
 
-.icons a{
-    font-size:60px;
-    color:black;
+.icons a {
+
+    font-size: 30px;
+    color: black;
     padding-right: 50px;
     text-decoration: none;
 }
 
-.icons a:hover{
+i.fab {
+    transition: transform .2s;
+}
+
+i.fab:hover {
     color: chocolate;
+    transform: scale(1.5);
 }
 
 /*button*/
 
+#about {
+    display: none;
+    text-align: justify;
+    font-family: 'Antonio', sans-serif;
+    font-weight: 900;
+
+
+}
+
 
 
 /*navbar*/
-.nav a{
-  font-family: "Lobster" , cursive;
-    color: black;
-    text-decoration: none;
-    font-size: 2.5rem;
-    padding-bottom: 50px;
-}
 
-.nav a:hover{
+
+.nav a:hover {
     color: chocolate;
 }
 
@@ -41,15 +50,102 @@ header{
 
 /*photography*/
 
-.no-padding{
+.no-padding {
     padding: 0;
 }
 
-.copyright{
+/*copyrhight*/
+
+.copyright {
     padding: 0;
     padding-top: 25px;
     font-size: x-small;
 }
 
 
+/*post production*/
 
+
+.post-production{
+    text-align: center;
+    font-family: 'Antonio', sans-serif;
+    padding:0px 12.5rem 0 12.5rem;
+
+}
+
+
+@media only screen and (max-width:576px) {
+
+
+    /*Index.html*/
+
+
+    /*icons*/
+
+    .icons {
+        padding-right: 0;
+    }
+
+    .icons a {
+        font-size: larger;
+        padding-right: 25px;
+    }
+
+    /*button*/
+
+    .btn {
+        font-size: xx-small;
+        margin-bottom: 25px;
+    }
+
+    /*navbar*/
+
+    .nav a {
+        font-family: 'Antonio', sans-serif;
+        color: black;
+        text-decoration: none;
+        font-size: smaller;
+        padding: 0px 5px 25px 5px;
+
+
+    }
+
+
+}
+
+@media only screen and (min-width:768px) {
+
+    /*index.html*/
+
+
+    /*navbar*/
+
+    .nav a {
+        font-family: 'Antonio', sans-serif;
+        color: black;
+        text-decoration: none;
+        font-size: x-large;
+        padding-bottom: 50px;
+    }
+}
+
+
+@media only screen and (min-width:992px) {
+
+    /*index.html*/
+
+
+    /*navbar*/
+
+    .nav a {
+        font-family: 'Antonio', sans-serif;
+        color: black;
+        text-decoration: none;
+        font-size: 2.5rem;
+        padding-bottom: 50px;
+    }
+
+
+
+
+}
