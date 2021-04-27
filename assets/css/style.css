@@ -6,11 +6,12 @@
 /*header*/
 
 header {
-    background-color:#b48c44;
+    background-color: #b48c44;
 
 }
 
 /*icons*/
+
 
 .icons a {
 
@@ -76,11 +77,9 @@ i.fab:hover {
 
 /*header*/
 
-.vector-gif {
-    
-    width: 280px;
 
-}
+
+
 
 
 .post-production {
@@ -88,13 +87,42 @@ i.fab:hover {
     font-family: 'Antonio', sans-serif;
     padding: 25px 12.5rem 0 12.5rem;
 
+
+
 }
 
 
-.packages{
+/*Packages-Prices*/
+
+.packages {
     text-align: center;
     font-family: 'Antonio', sans-serif;
+    margin-top: 25px;
+
+
 }
+
+
+.packages h2 {
+    margin-bottom: 25px;
+}
+
+
+.vector-click {
+    max-width: 80px;
+    padding-bottom: 25px
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 @media only screen and (max-width:576px) {
@@ -106,7 +134,7 @@ i.fab:hover {
     /*icons*/
 
     .icons {
-        padding-right: 0;
+        padding: 0px 0px;
     }
 
     .icons a {
@@ -114,12 +142,12 @@ i.fab:hover {
         padding-right: 25px;
     }
 
+
     /*logo*/
 
-    .logo{
-        margin-left: 15px;
+    .logo {
+        padding-left: 35px;
     }
-
 
 
     /*button*/
@@ -150,32 +178,54 @@ i.fab:hover {
 
 
     .copyright {
-    padding: 0;
-    padding-top: 25px;
-    font-size:xx-small;
-}
+        padding: 0;
+        padding-top: 25px;
+        font-size: xx-small;
+        font-weight: lighter;
+    }
 
 
     /*POST PRODUCTION*/
 
     /*header*/
 
-    .vector-gif {
+    .vector-camera {
         display: none;
     }
+
+
+    /*post-production section*/
 
     .post-production {
         margin-top: 15px;
         padding: 0;
     }
 
-    h1,
+    .post-production h1,
     h3 {
-        font-size: unset;
+        font-size: medium;
     }
 
-    p {
-        font-size: smaller;
+    .post-production p {
+        font-size: x-small;
+    }
+
+
+    /*packages-prices*/
+
+    .packages h2 {
+        font-size: medium;
+        margin-top: 0;
+    }
+
+    .vector-click {
+        max-width: 50px;
+        padding-bottom: 25px;
+
+    }
+
+    .packages button {
+        font-size: xx-small;
     }
 
 
@@ -194,7 +244,7 @@ i.fab:hover {
 
     /*logo*/
 
-   
+
 
     /*button*/
 
@@ -218,20 +268,68 @@ i.fab:hover {
 
     /*header*/
 
-    .vector-gif {
-        display: none;
+
+    /*icons*/
+
+    .icons{
+        padding-top: 0;
     }
+
+   
+
+    .vector-camera {
+
+        width: 140px;
+        margin: 10px 60px 0 0;
+
+
+    }
+
 
     .logo {
         text-align: center;
         padding-left: 80px;
     }
+
+
+    /*post-production-section*/
+
+    .post-production h1 h3 {
+        font-size: large;
+    }
+
+    .post-production p {
+        font-size: small;
+    }
+
+
+    /*packages-prices*/
+
+    .packages h2 {
+        font-size: large;
+    }
+
+   
+
+
 }
 
 
 @media only screen and (min-width:992px) {
 
     /*INDEX.HTML*/
+
+    /*icons*/
+
+
+    .icons {
+        padding-top: 25px;
+    }
+
+    .icons a{
+        padding-right: 25px;
+    }
+
 
     /*button*/
 
@@ -257,15 +355,26 @@ i.fab:hover {
 
     /*logo*/
 
-    .logo{
+    .logo {
         margin-left: 0;
         padding-left: 0;
     }
 
+    .vector-camera {
 
-    .vector-gif {
-        display: unset;
-        margin-top: 15px;
-    }
+    width: 280px;
+    margin-top: 20px;
+
+}
+
+
+/*packages-prices*/
+
+.packages button {
+    font-size: xx-large;
+}
+
+
+   
 
 }
