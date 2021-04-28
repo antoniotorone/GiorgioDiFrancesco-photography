@@ -1,12 +1,14 @@
 $(document).ready(function () {
 
 
+    /*INDEX.HTML*/
+
     $("button").click(function () {
         $("#about").toggle("medium")
     })
 
 
-    /*POST PRODUCTION*/
+    /*POST PRODUCTION.HTML*/
 
     /*Packages*/
 
@@ -57,8 +59,8 @@ $(document).ready(function () {
     })
 
 
+    /*MY JOURNEY.HTML*/
 
-
-
+    
 
 })
