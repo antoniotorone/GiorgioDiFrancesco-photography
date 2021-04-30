@@ -123,7 +123,25 @@ i.fab:hover {
     margin-top: 15px;
 }
 
+/*countries*/
 
+.card{
+    background-color: #b48c44;
+    color: black;
+    margin-top: 15px;
+    transition: transfom .2s;
+
+}
+
+.card-img-top :hover{
+    transform: scale(2);
+}
+
+.card a{
+    text-decoration: none;
+    background-color: black;
+    border-color: black;
+}
 
 
 
