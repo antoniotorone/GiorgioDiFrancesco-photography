@@ -7,10 +7,12 @@ body {
 /*INDEX.HTML*/
 
 
+
+
 /*header*/
 
 header {
-    background:linear-gradient(to bottom, rgb(228, 228, 228), rgba(11, 12, 14, 0.95));
+    background: linear-gradient(to bottom, rgb(228, 228, 228), rgba(11, 12, 14, 0.95));
 
 }
 
@@ -124,7 +126,7 @@ i.fab:hover {
 
 #map {
     height: 720px;
-   
+
 }
 
 /*countries*/
@@ -133,7 +135,7 @@ i.fab:hover {
     display: flex;
     justify-content: space-around;
     padding: 0;
-   
+
 }
 
 
@@ -143,7 +145,7 @@ i.fab:hover {
 .card {
 
     height: 360px;
-    padding: 2rem 1rem;
+    padding: 2rem;
     background: #fff;
     position: relative;
     display: flex;
@@ -207,10 +209,9 @@ i.fab:hover {
 }
 
 .card .info p {
-    letter-spacing: 1px;
-    font-size: 15px;
+
+    font-size: smaller;
     margin-top: 10px;
-    margin-bottom: 20px;
     text-align: left;
 }
 
@@ -264,7 +265,7 @@ i.fab:hover {
         padding-left: 35px;
     }
 
-    
+
 
 
     /*button*/
@@ -348,9 +349,9 @@ i.fab:hover {
 
     /*MY JOURNEY*/
 
-    .display-country{
-    display:block;
-}
+    .display-country {
+        display: block;
+    }
 
 
 
