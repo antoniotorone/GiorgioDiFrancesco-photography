@@ -14,6 +14,8 @@ header {
 
 }
 
+
+
 /*icons*/
 
 
@@ -209,6 +211,7 @@ i.fab:hover {
     font-size: 15px;
     margin-top: 10px;
     margin-bottom: 20px;
+    text-align: left;
 }
 
 .card .info .btn {
@@ -260,6 +263,8 @@ i.fab:hover {
     .logo {
         padding-left: 35px;
     }
+
+    
 
 
     /*button*/
