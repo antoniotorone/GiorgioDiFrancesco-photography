@@ -61,7 +61,7 @@ $(document).ready(function () {
 
     /*MY JOURNEY.HTML*/
 
-    $(".logo").fadeto("slow" , "0.5")
+  
     
 
 
