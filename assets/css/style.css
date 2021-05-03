@@ -76,6 +76,8 @@ i.fab:hover {
 /*copyrhight*/
 
 .copyright {
+    
+    color: #fff;
     padding: 0;
     padding-top: 25px;
     font-size: x-small;
@@ -139,7 +141,7 @@ i.fab:hover {
 }
 
 
-/*carde-effects*/
+/*countries-card*/
 
 
 .card {
@@ -156,7 +158,7 @@ i.fab:hover {
 
 .card:hover {
 
-    transform: translateX(20px)translateY(25px)translateZ(25px);
+    transform:translateY(25px);
 
 }
 
@@ -233,6 +235,31 @@ i.fab:hover {
 }
 
 
+/*CONTACT*/
+
+/*form*/
+
+.form{
+    margin: 50px 150px;
+    background: linear-gradient(to bottom, rgb(228, 228, 228), rgba(33, 37, 41, 88%));
+}
+
+.form h5{
+    padding-top: 15px;
+}
+
+.form input{
+    margin-top: 15px;
+}
+
+.form button{
+    margin-top:15px;
+    margin-bottom: 15px;
+}
+
+
+
+
 
 
 
@@ -296,6 +323,7 @@ i.fab:hover {
 
 
     .copyright {
+        color: #fff;
         padding: 0;
         padding-top: 25px;
         font-size: xx-small;
@@ -349,8 +377,22 @@ i.fab:hover {
 
     /*MY JOURNEY*/
 
+
+    /*map*/
+
+    #map{
+        height: 350px;
+    }
+
     .display-country {
         display: block;
+    }
+
+
+    /*CONTACT*/
+
+    .form{
+        margin: 0;
     }
 
 
@@ -435,6 +477,28 @@ i.fab:hover {
     }
 
 
+    /*MY JOURNEY*/
+
+    
+    /*map*/
+
+    #map{
+    height: 450px;
+    }
+
+
+    /*countries-card*/
+
+    .card .info p {
+
+    font-size: x-small;
+    margin-top: 10px;
+    text-align: left;
+}
+
+
+
+
 
 
 }
@@ -502,6 +566,18 @@ i.fab:hover {
     .packages h2 {
         font-size: x-large;
     }
+
+
+    /*MY JOURNEY*/
+
+    /*countries-card*/
+
+    .card .info p {
+
+    font-size: smaller;
+    margin-top: 10px;
+    text-align: left;
+}
 
 
 
