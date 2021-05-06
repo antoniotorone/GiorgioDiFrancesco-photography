@@ -21,7 +21,7 @@
     <script type="text/javascript">
         (function () {
             emailjs.init("user_XsLFHnF0D67OcvdNYupcZ");
-            emailjs.send("service_jee9pg2" , "Giorgio photography" , {name:"Antonio" , notes:"The service that I want is..."})
+
         })();
     </script>
     <title>Giorgiophotographer</title>
@@ -91,15 +91,17 @@
                 <h5>phone</h5>
                 <h5>1234567890</h5>
                 <h5>Enter your name</h5>
-                <form method="post" action="https://mail.google.com/mail/u/0/#inbox">
-                    <input type="name" class="form-control" placeholder="enter your name" aria-label="name" required>
+                <form onsubmit="return sendMail(this);">
+                    <input type="text" name="name" class="form-control" id="fullname" placeholder="Name"
+                        aria-label="fullname" required/>
                     <h5>Enter your email</h5>
-                    <input type="email" class="form-control" placeholder="Email address" aria-label="Email" required>
+                    <input type="text" name="emailaddress" class="form-control" id="emailaddress" placeholder="Email"
+                        aria-label="emailaddress" required/>
                     <h5>Enter your subject</h5>
-                    <input type="text" class="form-control " placeholder="subject" aria-label="subject" required>
+                    <input type="text" class="form-control " placeholder="subject" aria-label="subject" required/>
                     <h5>Enter your message request here</h5>
-                    <textarea rows="7" name="message-request" class="form-control" id="request-description"
-                        placeholder="Describe request" required></textarea>
+                    <textarea rows="7" name="messagerequest" class="form-control" id="request-description"
+                        placeholder="Describe request"></textarea>
                     <button type="submit" class="btn btn-secondary">Submit</button>
                 </form>
 
@@ -108,6 +110,8 @@
             </div>
         </div>
     </div>
+
+    <script type="text/javascript" src="assets/js/emailjs.js"></script>
 </body>
 
 </html>
