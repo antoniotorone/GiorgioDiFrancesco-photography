@@ -6,7 +6,7 @@
 
 A personal diary freelance photographer website where the main purpose is to show himself,
 be known to the users and also show the jobs, the skills by images, the style,
-the personal idea about photography in general of the webiste owner and freelance where the owner provides services with his skills for the users. 
+the personal idea about photography in general of the website owner and freelance where the owner provides services with his skills for the users. 
 Is responsible for all devices and the website on the mobile devices reflects all contents that are on the large screen devices not omitting any content.
 
 <h2 align="center"><img respnsive website></h2>
@@ -17,35 +17,36 @@ Is responsible for all devices and the website on the mobile devices reflects al
 
 #### First time visitor goals
 
-1. As a first-time visitor I want easily understand where I am.
-2. As a first-time visitor I want easily and straight see the images for to get an idea if is the right person for my purposes and see quiqkly what the website can offer me.
+1. As a first-time visitor, I want easily understand wich kind of wesite is.
+2. As a first-time visitor I want easily and straight see the images to get an idea if is the right person for my purposes and see quickly what the website can offer me.
 3. As a first-time visitor I want to know more about the website owner the experiences easily, clean and organized.
 
 #### Returning visitor goals
 
-1. As a returning visitor, I want to see seervices, prices, easily and well displayed.
-2. As a returning visitor, I want to be in contact without any difficulty finding a clear and readeble form.
+1. As a returning visitor, I want to see services, prices, easily and well displayed.
+2. As a returning visitor, I want to be in contact without any difficulty finding a clear and readable form.
+
 
 #### Frequent user goals
 
-1. As a frequent user I want to see social media and photographer website such as "500px" with new photos.
-2. As a frequent user i want to see and read more new journey experiences and read the owner opinion about the new countries visited.
+1. As a frequent user, I want to see social media and photographer website such as "500px" with new photos.
+2. As a frequent user I want to see and read more new journey experiences and read the owner opinion about the new countries visited.
 
 ### Design
 
 #### Color scheme
 
-The main colours used around the website is black on some page utilised as a background color and black with white shades also as a background color in others page and brown chocolate for the hover color.
+The main colours used around the website is black on some page utilised as a background colour and black with white shades also as a background colour in others page and brown chocolate for the hover colour.
 
 #### Tipography
 
 Antonio font 700 for text and heading has been used, sans-serif has been inserted as a fallback font in case of the site for any reasons doesn't recognize it.
-The font Antonio is clean and the letters style is very readeble.
+The font Antonio is clean and the style of the letters is very readable.
 
 ### Images
 
-The images are the first and the most important content of the entirely website.
-Trouhght them the owner can express himself, covering style, feeling and passion.
+The images are the first and the most important content of the entire website.
+Through them the owner can express himself, covering style, feeling and passion.
 
 ### Wireframes
 
@@ -119,5 +120,76 @@ The Lighthouse test was used to check the performance, best practices and access
 []
 
 ### Testing user stories from user experience (UX section)
+
+####  First time visitor
+
+1. As a first-time visitor, I want easily understand wich kind of wesite is.
+
+   1. The website home is structured to give a warm welcome from the owner with this showy logo that includes the "photography" word and help the user to understand what everything is about and also the images immediately shown, help to get so easy the website idea. 
+      The button "more about me" also supplements the warm welcome with a short but signifying introduction
+      to make the user curious.
+
+[screenshot]
+
+2. As a first-time visitor I want easily and straight see the photos for to get an idea if is the right person for my purposes and see quikly what the website can offer me.
+
+   1. The images are shown everywhere throughout the website and easy to reach.
+      The most important and strategic area for keep the user and not leave the website  is the home page where is full of photos.
+      Through them, the user can see the techniques used such as position, cut, colour contrast, background.
+      Directly inside the header, there is the post-production page, easy to catch with this brown chocolate hover colour that give a big contrast with the basic black colour.
+      The post-production page contains all services built on the centre of the page, straight to the user's eye and on the bottom, some interactive buttons are present to check the services price.
+      The hand click vector gif is present to make easily understand which action the user has to do to check the price.
+
+   [screenshotssss]
+
+3. As a first-time visitor I want to know more about the website owner the experiences easily, clean and organized.
+
+    1. The more about me button does the job to introduce the website owner to the user but the main area where the user can find more information is explained on my journey page easy to catch with hover colour.
+       The page shows a map of where the owner has been.
+       The places are easy to find with the presence of a markers clusterer. Below the map, is displayed one card for any countries.
+       Any card presents a button that is an internal link that thanks to him brings the user to discover more photos; how I said before, the photos are everywhere.
+
+      [screenshotsss]
+
+#### Returning visitor goals
+
+1. As a returning visitor, I want to see seervices, prices, easily and well displayed.
+
+    1. For this purpose, the user can achieve it by looking at the big navbar, where is included the post-production page.
+       Is catching easy by the mouse because big displayed, for the hover colour contrast and also because the nav-bar take all length page instead that some corners.
+       The post-production page welcomes the user with this big and engaging sentence.
+       Everything is in the middle of the page, so the user doesn't get confused and lost.
+       The prices are introduced from the packages heading, also in the middle.
+       Some click interaction is present here and so easy to use thanks to the 2 vector gif that explain very well what to do.
+
+      [screenshot]
+
+2. As a returning visitor, I want to be in contact without any difficulty finding a clear and readeble form.
+
+    1. There are two ways to be in contact: the envelope icon on the right side inside the head that brings the user to type and send an email straight, without navigating around the website or the contact page displayed on the nav-bar, that has everything for satisfying the user. Indeed
+       After opening the page there is a nice displayed form with the owner contacts on top, in case the user feel more comfortable to call instead than to do the first approach by email and immediately below the form, 
+       easily displayed with these headings and placeholders that help the user to understand how to fill the fields. 
+       On the bottom, a textarea is present to allow the user to leave some important and precious notes, needfuls for the best result.
+
+      [screenshot]
+
+### Frequent user goals
+
+1. As a frequent user I want to see social media and photographer website such as "500px" with new photos.
+
+    1. The social media are displayed on the right, inside the header that is present on any pages.
+       The easy to catch them is provided by the CSS3 transition hover effects that make the icons, on the mouse passage bigger and also with the high colour contrast.
+       500 px is present such as the first icon from the left, which brings the user to the most famous and recognized photography social website.
+
+       [screenshot]
+
+2. As a frequent user goals I want to see and read more journey experiences and read the owner opinions about the new countries visited.
+
+   1. All these contents are displayed on my journey page and the page will be always monitored and updated by the developer with new contents to increase the website interest and get more visitors.
+
+   [screenshot]
+
+
+
 
 
