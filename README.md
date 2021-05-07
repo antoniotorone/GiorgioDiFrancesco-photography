@@ -43,7 +43,7 @@ The main colours used around the website is black on some page utilised as a bac
 Antonio font 700 for text and heading has been used, sans-serif has been inserted as a fallback font in case of the site for any reasons doesn't recognize it.
 The font Antonio is clean and the style of the letters is very readable.
 
-### Images
+### Imagery
 
 The images are the first and the most important content of the entire website.
 Through them the owner can express himself, covering style, feeling and passion.
@@ -62,18 +62,18 @@ All devices wireframes PDF File [view] ()
 
 ### Language used
 
-[HTML5] (https://en.wikipedia.org/wiki/HTML5)
+[HTML5:] (https://en.wikipedia.org/wiki/HTML5)
 
-[CSS3] (https://en.wikipedia.org/wiki/CSS#CSS_3)
+[CSS3:] (https://en.wikipedia.org/wiki/CSS#CSS_3)
 
-[JAVASCRIPT] (https://en.wikipedia.org/wiki/JavaScript)
+[JAVASCRIPT:] (https://en.wikipedia.org/wiki/JavaScript)
 
 ### Frameworks, Libraries & Programs used
 
 1. [Bootstrap 5.0:] (https://getbootstrap.com/docs/5.0/getting-started/introduction/)
    Bootstrap was used to get the website responsive and stylish 
 
-1. [Jquery] (https://jquery.com/) 
+1. [Jquery:] (https://jquery.com/) 
    Jquery was used to easily write codes and build interactivity for the users
 
 1. [Google fonts:] (https://fonts.google.com/)
@@ -129,65 +129,71 @@ The Lighthouse test was used to check the performance, best practices and access
       The button "more about me" also supplements the warm welcome with a short but signifying introduction
       to make the user curious.
 
-[screenshot]
+[View here] (url) 
 
 2. As a first-time visitor I want easily and straight see the photos for to get an idea if is the right person for my purposes and see quikly what the website can offer me.
 
    1. The images are shown everywhere throughout the website and easy to reach.
       The most important and strategic area for keep the user and not leave the website  is the home page where is full of photos.
-      Through them, the user can see the techniques used such as position, cut, colour contrast, background.
-      Directly inside the header, there is the post-production page, easy to catch with this brown chocolate hover colour that give a big contrast with the basic black colour.
-      The post-production page contains all services built on the centre of the page, straight to the user's eye and on the bottom, some interactive buttons are present to check the services price.
-      The hand click vector gif is present to make easily understand which action the user has to do to check the price.
+      Through them, the user can see the techniques used such as position, cut, colour contrast, background. [View here](url)
 
-   [screenshotssss]
+
+    2. Directly inside the header, there is the post-production page, easy to catch with this brown chocolate hover colour that give a big contrast with the basic black colour. [View here] (url)
+      The post-production page contains all services built on the centre of the page, straight to the user's eye and on the bottom, some interactive buttons are present to check the services price.
+      The hand click vector gif is present to make easily understand which action the user has to do to check the price. [View here] (url)
+
+
 
 3. As a first-time visitor I want to know more about the website owner the experiences easily, clean and organized.
 
-    1. The more about me button does the job to introduce the website owner to the user but the main area where the user can find more information is explained on my journey page easy to catch with hover colour.
+    1. The more about me button does the job to introduce the website owner to the user [View here] (url).
+       
+       
+    2. The main area where the user can find more information is explained on my journey page easy to catch with hover colour. [View here] (url)
        The page shows a map of where the owner has been.
-       The places are easy to find with the presence of a markers clusterer. Below the map, is displayed one card for any countries.
-       Any card presents a button that is an internal link that thanks to him brings the user to discover more photos; how I said before, the photos are everywhere.
-
-      [screenshotsss]
+       The places are easy to find with the presence of a markers clusterer. [View here] (url)
+    3. Below the map, is displayed one card for any countries.
+       Any card presents a button that is an internal link that thanks to him brings the user to discover more photos; how I said before, the photos are everywhere. [View here] (url)
 
 #### Returning visitor goals
 
 1. As a returning visitor, I want to see seervices, prices, easily and well displayed.
 
     1. For this purpose, the user can achieve it by looking at the big navbar, where is included the post-production page.
-       Is catching easy by the mouse because big displayed, for the hover colour contrast and also because the nav-bar take all length page instead that some corners.
-       The post-production page welcomes the user with this big and engaging sentence.
+       Is catching easy by the mouse because big displayed, for the hover colour contrast and also because the nav-bar take all length page instead that some corners. [View here] (url)
+    2. The post-production page welcomes the user with this big and engaging sentence. [View here] (url)
        Everything is in the middle of the page, so the user doesn't get confused and lost.
-       The prices are introduced from the packages heading, also in the middle.
-       Some click interaction is present here and so easy to use thanks to the 2 vector gif that explain very well what to do.
-
-      [screenshot]
+    3. The prices are introduced from the packages heading, also in the middle.
+       Some click interaction is present here and so easy to use thanks to the 2 vector gif that explain very well what to do. [View here] (url)
 
 2. As a returning visitor, I want to be in contact without any difficulty finding a clear and readeble form.
 
-    1. There are two ways to be in contact: the envelope icon on the right side inside the head that brings the user to type and send an email straight, without navigating around the website or the contact page displayed on the nav-bar, that has everything for satisfying the user. Indeed
-       After opening the page there is a nice displayed form with the owner contacts on top, in case the user feel more comfortable to call instead than to do the first approach by email and immediately below the form, 
-       easily displayed with these headings and placeholders that help the user to understand how to fill the fields. 
-       On the bottom, a textarea is present to allow the user to leave some important and precious notes, needfuls for the best result.
+    1. There are two ways to be in contact: the envelope icon on the right side inside the head that brings the user to type and send an email straight, without navigating around the website or the contact page displayed on the nav-bar, that has everything for satisfying the user. [View here] (url) 
+        Indeed after opening the page there is a nice displayed form with the owner contacts on top, in case the user feel more comfortable to call instead than to do the first approach by email and immediately below the form, 
+       easily displayed with these headings and placeholders that help the user to understand how to fill the fields.
 
-      [screenshot]
+
+    2. On the bottom, a textarea is present to allow the user to leave some important and precious notes, needfuls for the best result.
+
+      [View here] (url)
 
 ### Frequent user goals
 
 1. As a frequent user I want to see social media and photographer website such as "500px" with new photos.
 
-    1. The social media are displayed on the right, inside the header that is present on any pages.
-       The easy to catch them is provided by the CSS3 transition hover effects that make the icons, on the mouse passage bigger and also with the high colour contrast.
-       500 px is present such as the first icon from the left, which brings the user to the most famous and recognized photography social website.
+    1. The social media are displayed on the right, inside the header that is present on any pages. [View here] (url)
+       
+       
+    2. The easy to catch them is provided by the CSS3 transition hover effects that make the icons, on the mouse passage bigger and also with the high colour contrast.
+       500 px is present such as the first icon from the left, which brings the user to the most famous and recognized photography social website. [View here] (url)
 
-       [screenshot]
+       [View here] (url)
 
 2. As a frequent user goals I want to see and read more journey experiences and read the owner opinions about the new countries visited.
 
    1. All these contents are displayed on my journey page and the page will be always monitored and updated by the developer with new contents to increase the website interest and get more visitors.
 
-   [screenshot]
+   [View here] (url)
 
 
 
