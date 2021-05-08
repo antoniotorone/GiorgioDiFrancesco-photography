@@ -10,6 +10,7 @@ function initMap() {
 
         var labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
+       
         var locations = [
 
             {
@@ -125,13 +126,28 @@ function initMap() {
             }
         ];
 
+        
+
+
+        
+
 
         var markers = locations.map(function (location, i) {
             return new google.maps.Marker({
                 position: location,
-                label: labels[i % labels.length]
+                label: labels[i % labels.length],
+                title: "click for more details"
             });
         });
+
+
+        
+
+        
+
+
+        
+            
 
         var markerclusterer = new MarkerClusterer(map, markers, {
             imagePath: "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m",

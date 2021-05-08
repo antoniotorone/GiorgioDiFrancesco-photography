@@ -12,7 +12,7 @@ body {
 /*header*/
 
 header {
-    background: linear-gradient(to bottom, rgb(228, 228, 228), rgba(11, 12, 14, 0.95));
+    background: linear-gradient(to bottom, rgb(255, 255, 255), rgb(146, 143, 143, 0.5));
 
 }
 
@@ -73,9 +73,20 @@ i.fab:hover {
 /*navbar*/
 
 
+.nav a{
+     
+}
+
 .nav a:hover {
     color: chocolate;
+    
 }
+
+.nav a:active{
+    color:white
+}
+
+
 
 
 
@@ -90,7 +101,7 @@ i.fab:hover {
 
 .copyright {
     
-    color: #fff;
+    color:black;
     padding: 0;
     padding-top: 25px;
     font-size: x-small;
