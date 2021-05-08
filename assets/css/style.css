@@ -21,13 +21,18 @@ header {
 /*icons*/
 
 
-.icons a {
+.head a {
 
     font-size: 40px;
     color: black;
-    padding-right: 50px;
     text-decoration: none;
+    
 }
+
+.head i{
+    padding-right: 35px;
+}
+
 
 i.fab {
     transition: transform .2s;
@@ -39,6 +44,14 @@ i.fab:hover {
     transform: scale(2);
 }
 
+
+.head img{
+    margin-left: 10.5rem;
+}
+
+.head button{
+    margin-left: 14rem;
+}
 
 
 
