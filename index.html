@@ -14,6 +14,14 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <script src="https://code.jquery.com/jquery-3.6.0.js"
         integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
+    </script>
+    <script type="text/javascript">
+        (function () {
+            emailjs.init("user_XsLFHnF0D67OcvdNYupcZ");
+
+        })();
+    </script>
     <title>Giorgiophotographer</title>
 </head>
 
@@ -220,53 +228,61 @@
             </div>
 
             <!--Form-->
+            <div class="container-fluid">
+                <div class="row">
+                    <form onsubmit="return sendMail(this);">
 
-            <div class="row">
-                <form onsubmit="return sendMail(this);">
+                        <div class="col-4">
+                            <h5>Enter your name</h5>
+                            <input type="text" name="name" class="form-control" id="indexname" placeholder="Name"
+                                aria-label="indexname" required />
 
-                    <div class="col-4">
-                        <h5>Enter your name</h5>
-                        <input type="text" name="name" class="form-control" id="fullname" placeholder="Name"
-                            aria-label="fullname" required />
-                    </div>
-                    <div class="col-4">
-                        <h5>Enter your email</h5>
-                        <input type="text" name="emailaddress" class="form-control" id="emailaddress"
-                            placeholder="Email" aria-label="emailaddress" required />
-                    </div>
-                    <div class="col-4">
-                        <h5>Enter your subject</h5>
-                        <input type="text" class="form-control " placeholder="subject" aria-label="subject" required />
-                    </div>
-                    <div class="col-8 offset-4">
-                        <h5>Enter your message request here</h5>
-                    <textarea rows="7" name="messagerequest" class="form-control" id="request-description"
-                        placeholder="Describe request"></textarea>
-                    </div>
-                </form>
+
+                            <h5>Enter your email</h5>
+                            <input type="text" name="emailaddress" class="form-control" id="indexaddress"
+                                placeholder="Email" aria-label="indexaddress" required />
+
+
+                            <h5>Enter your subject</h5>
+                            <input type="text" class="form-control " placeholder="subject" aria-label="subject"
+                                required />
+                        </div>
+
+                        <div class="col-8">
+                            <h5>Enter your message request here</h5>
+                            <textarea rows="7" name="messagerequest" class="form-control" id="index-request"
+                                placeholder="Describe request"></textarea>
+                            <button type="submit" class="btn btn-secondary response">Submit</button>
+                        </div>
+
+                        <div class="test"></div>
+
+                    </form>
+                </div>
+
+
+
+
             </div>
 
 
 
 
-        </div>
 
 
 
 
+            <!--Copyright-->
 
-
-
-
-        <!--Copyright-->
-
-        <div class="container-fluid copyright">
-            <div class="col-12">
-
+            <div class="container-fluid copyright">
+                <div class="col-12"></div>
             </div>
         </div>
+    </div>
 
-        <script type="text/javascript" src="assets/js/script.js"></script>
+    <script type="text/javascript" src="assets/js/emailjs.js"></script>
+
+    <script type="text/javascript" src="assets/js/script.js"></script>
 
 
 
