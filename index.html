@@ -31,7 +31,7 @@
     <header>
         <div class="container-fluid">
             <div class="row">
-                <div class="col-11 offset-1 head ">
+                <div class="col-12 col-lg-11 offset-lg-1 head ">
 
                     <a href="https://500px.com/p/giorgiosunshine?view=photos" target="_blank"
                         aria-label="go to 500px website (open in a  new tab)">
@@ -54,7 +54,7 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-4 offset-8 " id="about">
+                    <div class="col-12 col-lg-4 offset-lg-8 " id="about">
                         <p><strong>Throughout much of my adult life, I’ve been travelling, seeking adventure and
                                 ways to
                                 learn
@@ -214,15 +214,15 @@
     <div class="container-fluid">
         <div class="row footer">
 
-            <div class="col-4 offset-2">
-                <h5><i class="fas fa-mail-bulk"></i> Email:<a href="mailto:webmaster@example.com" target="_blank"
+            <div class="col-12 col-md-6 col-lg-4 offset-lg-2">
+                <h5><i class=" fas fa-mail-bulk"></i> Email:<a href="mailto:webmaster@example.com" target="_blank"
                         aria-label="go to your service email website (open in a new tab)">
                         GiorgioDiFrancesco87@gmail.com</a>
                 </h5>
 
             </div>
-            <div class="col-4 offset-2">
-                <h5><i class="fas fa-mobile-alt"></i>0123456789</h5>
+            <div class="col-12 col-md-6 col-lg-4 offset-lg-2">
+                <h5><i id="phone" class=" fas fa-mobile-alt"></i>0123456789</h5>
             </div>
 
             <!--Form-->
@@ -230,7 +230,7 @@
                 <div class="row">
                     <form onsubmit="return sendMail(this)">
 
-                        <div class="col-4">
+                        <div class="col-12 col-md-9 offset-md-3 col-lg-8 offset-lg-4">
                             <h5>Enter your name</h5>
                             <input type="text" name="name" class="form-control" id="indexname" placeholder="Name"
                                 aria-label="indexname" required />
@@ -246,14 +246,18 @@
                                 required />
                         </div>
 
-                        <div class="col-8">
+                        <div class="col-12 col-md-9 offset-md-3 col-lg-8 offset-lg-4">
                             <h5>Enter your message request here</h5>
                             <textarea rows="7" name="messagerequest" class="form-control" id="index-request"
                                 placeholder="Describe request"></textarea>
-                            <button type="submit" class="btn btn-secondary response">Submit</button>
                         </div>
 
-                        <div class="test"></div>
+                        <div class="row">
+                            <div class="col-8 offset-4 col-md-7 offset-md-5">
+                                 <button type="submit" id="send" class="btn btn-secondary response rounded-square btn-lg">Send</button>
+                            </div>
+                        </div>
+
 
                     </form>
                 </div>
