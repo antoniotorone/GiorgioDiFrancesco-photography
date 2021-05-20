@@ -14,7 +14,15 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <script src="https://code.jquery.com/jquery-3.6.0.js"
         integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
-    <title>Giorgiophotographer</title>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
+    </script>
+    <script type="text/javascript">
+        (function () {
+            emailjs.init("user_XsLFHnF0D67OcvdNYupcZ");
+
+        })();
+    </script>
+    <title>GiorgioDiFrancesco-photography</title>
 </head>
 
 <body style="background:linear-gradient(to bottom, #f9fafb, #f8f9fa26);">
@@ -25,7 +33,7 @@
     <header>
         <div class="container-fluid">
             <div class="row">
-                <div class="col-11 offset-1 head ">
+                <div class="col-12 col-xl-11 offset-xl-1 head ">
 
                     <a href="https://500px.com/p/giorgiosunshine?view=photos" target="_blank"
                         aria-label="go to 500px website (open in a  new tab)">
@@ -48,7 +56,7 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-4 offset-8 " id="about">
+                    <div class="col-12 col-lg-4 offset-lg-8 " id="about">
                         <p><strong>Throughout much of my adult life, I’ve been travelling, seeking adventure and
                                 ways to
                                 learn
@@ -77,15 +85,13 @@
             <div class="row ">
                 <div class="col-12">
                     <nav class="nav  nav-fill">
-                        <a class=" nav-link" aria-current="page" href="index.html">Home</a>
-                        <a class=" nav-link" href="myjourney.html">My Journey</a>
-                        <a class=" nav-link" href="postproduction.html">Post Production</a>
-                       </nav>
+                        <a class=" nav-link active" aria-current="page" href="index.html">Home</a>
+                        <a class=" nav-link " href="myjourney.html">My Journey</a>
+                        <a class=" nav-link " href="postproduction.html">Post Production</a>
+                    </nav>
                 </div>
             </div>
     </header>
-
-
     <div class="container-fluid no-padding">
         <div class="row g-0">
             <div class="col-4">
@@ -142,12 +148,94 @@
         </div>
     </div>
 
+    <!--Footer-Form-->
+
+    <div class="container-fluid footer">
+        <div class="row">
+            <div class="col-12">
+                <p>Let's get in contact</p>
+            </div>
+        </div>
+
+
+        <div class="container-fluid">
+            <div class="row ">
+
+                <div class="col-12 col-md-8 col-lg-4 offset-lg-2">
+                    <h5><i id="email" class=" fas fa-mail-bulk"></i> Email:<a href="mailto:webmaster@example.com"
+                            target="_blank" aria-label="go to your service email website (open in a new tab)">
+                            GiorgioDiFrancesco87@gmail.com</a>
+                    </h5>
+
+                </div>
+
+                <div class="col-12 col-md-4 col-lg-5 offset-lg-1">
+                    <h5> <i id="phone" class=" fas fa-mobile-alt"></i>+44 7123456789</h5>
+                </div>
+
+                <!--Form-->
+                <div class="container-fluid">
+
+                    <div class="row">
+
+                        <form onsubmit="return sendMail(this)">
+
+                            <div class="col-12 col-md-9 offset-md-3 col-lg-8 offset-lg-4">
+                                <h5>Enter your name</h5>
+
+                                <input type="text" name="name" class="form-control" id="indexname" placeholder="Name"
+                                    aria-label="indexname" required />
+
+                                <h5>Enter your email</h5>
+
+                                <input type="text" name="emailaddress" class="form-control" id="indexaddress"
+                                    placeholder="Email" aria-label="indexaddress" required />
+
+                                <h5>Enter your subject</h5>
+
+                                <input type="text" class="form-control " placeholder="subject" aria-label="subject"
+                                    required />
+                            </div>
+
+                            <div class="col-12 col-md-9 offset-md-3 col-lg-8 offset-lg-4">
+
+                                <h5>Enter your message request here</h5>
+
+                                <textarea rows="7" name="messagerequest" class="form-control" id="index-request"
+                                    placeholder="Describe request">
+                                </textarea>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-8 offset-4 col-md-7 offset-md-5">
+                                    <button type="submit" id="send"
+                                        class="btn btn-secondary response rounded-square btn-lg">Send</button>
+                                </div>
+                            </div>
+
+                        </form>
+
+                    </div>
+
+                </div>
+
+            </div>
+        
+        </div>
+    
+    </div>
+
     <!--Copyright-->
+
     <div class="container-fluid copyright">
         <div class="col-12">
-            <p>Copyright 2021 GiorgioSunshine. All right reserved. Photographer Website by Antonio Torone<p>
+           <p>Copyright 2021 GiorgioDiFrancesco-photography. All right reserved. Profile-Freelance-photography webdesign by Antonio Torone</p>
         </div>
     </div>
+
+    <script type="text/javascript" src="assets/js/emailjs.js"></script>
+
+    <script type="text/javascript" src="assets/js/script.js"></script>
 
 </body>
 
