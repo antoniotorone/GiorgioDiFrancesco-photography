@@ -53,9 +53,10 @@ i.fab:hover {
 
 /*button*/
 
-.head button {
-    margin-left: 14rem;
+.about-me{
+    margin-right: 50px;
 }
+
 
 
 #about {
@@ -487,13 +488,9 @@ i.fab:hover {
 
     /*button*/
 
-    .head button {
+    .about-me {
         font-size: larger;
         margin: 10px 0px 10px 19.37rem;
-    }
-
-    .about-me {
-        margin: 25px 0px 25px 288px;
     }
 
 
@@ -631,9 +628,8 @@ i.fab:hover {
     /*button*/
 
     .about-me {
-        margin: 50px 0px 0px 103px
+       margin: 10px 0px 10px 180px;
     }
-
 
     /*navbar*/
 
