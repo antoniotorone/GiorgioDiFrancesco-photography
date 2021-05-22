@@ -65,47 +65,47 @@ All devices wireframes PDF File [view] ()
 
 [CSS3] (https://en.wikipedia.org/wiki/CSS#CSS_3)
 
-[JAVA SCRIPT] (https://en.wikipedia.org/wiki/JavaScript)
+[JAVASCRIPT] (https://en.wikipedia.org/wiki/JavaScript)
 
 ### Frameworks, Libraries & Programs used
 
-1. [Bootstrap 5.0:] (https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+1. [Bootstrap5.0] (https://getbootstrap.com/docs/5.0/getting-started/introduction/)
    Bootstrap was used to get the website responsive and stylish 
 
-1. [Jquery:] (https://jquery.com/) 
-   Jquery was used to easily write codes and build interactivity for the users
+1. [Jquery] (https://jquery.com/) 
+   Jquery was used to easily write codes and build interactivity for the users.
 
-1. [Google fonts:] (https://fonts.google.com/)
+1. [Googlefonts] (https://fonts.google.com/)
    Google fonts were used to import "Antonio 700" font into the style.css file wich used on all pages through the project.
 
-1. [Font awesome:] (https://fontawesome.com/)
+1. [Fontawesome] (https://fontawesome.com/)
    Font awesome was used through the website to add icons for aesthetic and ux purposes.
 
-1. [Git:] (https://git-scm.com/)
+1. [Git] (https://git-scm.com/)
    The Git command were used to save and push the project from Gitpod to Github.
 
-1. [Github:] (https://github.com/)
+1. [Github] (https://github.com/)
    Github is used to store the project.
 
-1. [Emailjs:] (https://www.emailjs.com/)
+1. [Emailjs] (https://www.emailjs.com/)
    Emailjs has been uncluded in the project for to get users request services directly from the website.
 
-1. [Google maps:] (https://developers.google.com/maps)
+1. [Googlemaps] (https://developers.google.com/maps)
    Google maps api and own functions were used to include the google map inside the website.
 
-1. [Cloudinary:] (https://cloudinary.com/)
-   Cloudinary was used to store all images online
+1. [Cloudinary] (https://cloudinary.com/)
+   Cloudinary was used to store all images online.
 
-1. [Photoshop:](https://www.adobe.com/uk/products/photoshop.html)
+1. [Photoshop](https://www.adobe.com/uk/products/photoshop.html)
    Photoshop was used to resize all images inside the project and avoid any stretching.
 
-1. [Illustrator:](https://www.adobe.com/uk/products/illustrator.html)
+1. [Illustrator](https://www.adobe.com/uk/products/illustrator.html)
    Illustrator was used to creating the logo agency.
 
-1. [Tinypng:](https://tinypng.com/)
+1. [Tinypng](https://tinypng.com/)
    Tinypng was used to compress the weight of all images and to improve the site loading speed, especially for mobile-devices.
 
-1. [Balsamiq:](https://balsamiq.com/)
+1. [Balsamiq](https://balsamiq.com/)
    Balsamiq was used to create the wireframes.
 
 ## Testing
@@ -159,11 +159,11 @@ All devices wireframes PDF File [view] ()
     2. The post-production page welcomes the user with this big and engaging sentence. [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621717009/2nd%20milestone-image/UX%20TESTING/testing-engage-sentence_snwock.jpg)
        Everything is in the middle of the page, so the user doesn't get confused and lost. [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621717019/2nd%20milestone-image/UX%20TESTING/test-post-prod-2_xndwpg.jpg)
     3. The prices are introduced from the packages heading, also in the middle.
-       Some click interaction is present here and so easy to use thanks to the 2 vector gif that explain very well what to do. [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621717015/2nd%20milestone-image/UX%20TESTING/test-post-prod-4_xqxsxp.jpg)
+       Some click interaction is present here and so easy to use thanks to the 2 vector gif that explain very well what to do. [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621717015/2nd%20milestone-image/UX%20TESTING/test-post-prod-4_xqxsxp.jpg).
 
 2. As a returning visitor, I want to be in contact without any difficulty finding a clear and readeble form.
 
-    1.There are two ways to be in contact: the envelope icon on the right side inside the head that brings the user to type and send an email straight, without scrolling to the bottom of every page in the website where is displayed the form. 
+    1. There are two ways to be in contact: the envelope icon on the right side inside the head that brings the user to type and send an email straight, without scrolling to the bottom of every page in the website where is displayed the form. 
        The  form includes the owner contacts on top, in case the user feel more comfortable to call instead than to do the first approach by email and below the inputs, 
        easily displayed with these headings and placeholders that help the user to understand how to fill the fields.
        [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621717583/2nd%20milestone-image/UX%20TESTING/testing-contact-envelop_fomzc2.jpg) 
@@ -208,7 +208,7 @@ The Lighthouse test was used to check the performance, best practices and access
 
 ##### Expected
 
-1.I was expected to get the map working well and smooth after opening the website after deployment.
+1. I was expected to get the map working well and smooth after opening the website after deployment.
 
 ##### Result
 
@@ -233,18 +233,10 @@ The Lighthouse test was used to check the performance, best practices and access
 
 ##### Fix
 
-1.After looking around the website and through the codes I noticed that when I copied and paste the form I didn't also paste the emailjs.init() method
+1. After looking around the website and through the codes I noticed that when I copied and paste the form I didn't also paste the emailjs.init() method
    with my user id inside [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621631707/2nd%20milestone-image/testing/fix-email-js-id_ozzn40.jpg).
    I fixed it to implement it everywhere.
 
-### Testing in the browser and mobile devices
-
-1. The website has been tested in Opera, Microsoft Explorer browsers, iPhone 6/7/8/11, Sony Xperia x1 with a positive response and not any layout issues.
-[View-here-the-home-page-in-Opera] ()
-[View-here-the-home-page-in-Microsoft-Explorer] ()
-[View-here-the-home-page-in-iphone11] ()
-[View-here-the-home-page-in-sonyxperiax1ultra] ()
-[View-here-the-home-page-in-samsung] ()
 
 ## Deployment
 
@@ -286,7 +278,11 @@ The navigation bar, buttons and grid system were taken here.
 
 [Google-maps-platform] (https://developers.google.com/maps/documentation/javascript/overview)
 
-The map, infowindow, markers and clusterer methods comes from here and the processing to implement only the map method mostly has been taken from the rosie project(part of Code institute course)
+The map, infowindow, markers and clusterer methods come from here and the processing to implement only the map method mostly has been taken from the rosie project(part of Code institute course)
+
+[Emailjs] (https://www.emailjs.com/)
+
+The email js, part of the form functionality come from here and for implement the function mostly I followed the rosie project.
 
 ### content
 
