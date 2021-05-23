@@ -1,6 +1,6 @@
 # Antonio Torone Milestone 2 -  Interactive Frontend Development
 
-[View here the live project.] (https://github.com/antoniotorone/GiorgioDiFrancesco-photography)
+[View here the live project](https://github.com/antoniotorone/GiorgioDiFrancesco-photography)
 
 ## Giorgio Di Francesco Photography.
 
@@ -49,7 +49,7 @@ Through them the owner can express himself, covering style, feeling and passion.
 
 ### Wireframes
 
-All devices wireframes PDF File [view] ()
+All devices wireframes PDF File [view]()
 
 ## Features
 
@@ -61,51 +61,51 @@ All devices wireframes PDF File [view] ()
 
 ### Language used
 
-[HTML5] (https://en.wikipedia.org/wiki/HTML5)
+[HTML5](https://en.wikipedia.org/wiki/HTML5)
 
-[CSS3] (https://en.wikipedia.org/wiki/CSS#CSS_3)
+[CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3)
 
-[JAVASCRIPT] (https://en.wikipedia.org/wiki/JavaScript)
+[JAVASCRIPT](https://en.wikipedia.org/wiki/JavaScript)
 
 ### Frameworks, Libraries & Programs used
 
-1. [Bootstrap5.0] (https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+1. [Bootstrap5.0:](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
    Bootstrap was used to get the website responsive and stylish 
 
-1. [Jquery] (https://jquery.com/) 
+1. [Jquery:](https://jquery.com/) 
    Jquery was used to easily write codes and build interactivity for the users.
 
-1. [Googlefonts] (https://fonts.google.com/)
+1. [Google fonts:](https://fonts.google.com/)
    Google fonts were used to import "Antonio 700" font into the style.css file wich used on all pages through the project.
 
-1. [Fontawesome] (https://fontawesome.com/)
+1. [Fontawesome:](https://fontawesome.com/)
    Font awesome was used through the website to add icons for aesthetic and ux purposes.
 
-1. [Git] (https://git-scm.com/)
+1. [Git:](https://git-scm.com/)
    The Git command were used to save and push the project from Gitpod to Github.
 
-1. [Github] (https://github.com/)
+1. [Github:](https://github.com/)
    Github is used to store the project.
 
-1. [Emailjs] (https://www.emailjs.com/)
+1. [Emailjs:](https://www.emailjs.com/)
    Emailjs has been uncluded in the project for to get users request services directly from the website.
 
-1. [Googlemaps] (https://developers.google.com/maps)
+1. [Google maps:](https://developers.google.com/maps)
    Google maps api and own functions were used to include the google map inside the website.
 
-1. [Cloudinary] (https://cloudinary.com/)
+1. [Cloudinary:](https://cloudinary.com/)
    Cloudinary was used to store all images online.
 
-1. [Photoshop](https://www.adobe.com/uk/products/photoshop.html)
+1. [Photoshop:](https://www.adobe.com/uk/products/photoshop.html)
    Photoshop was used to resize all images inside the project and avoid any stretching.
 
-1. [Illustrator](https://www.adobe.com/uk/products/illustrator.html)
+1. [Illustrator:](https://www.adobe.com/uk/products/illustrator.html)
    Illustrator was used to creating the logo agency.
 
-1. [Tinypng](https://tinypng.com/)
+1. [Tinypng:](https://tinypng.com/)
    Tinypng was used to compress the weight of all images and to improve the site loading speed, especially for mobile-devices.
 
-1. [Balsamiq](https://balsamiq.com/)
+1. [Balsamiq:](https://balsamiq.com/)
    Balsamiq was used to create the wireframes.
 
 ## Testing
@@ -119,7 +119,7 @@ All devices wireframes PDF File [view] ()
    1. The website home is structured to give a warm welcome from the owner with this showy logo that includes the "photography" word and help the user to understand what everything is about and also the images immediately shown, help to get so easy the website idea. 
       The button "more about me" also supplements the warm welcome with a short but signifying introduction
       to make the user curious. 
-      [View here] (https://res.cloudinary.com/anto8913/image/upload/v1621717011/2nd%20milestone-image/UX%20TESTING/testing-home_qcguvb.jpg) 
+      [View here](https://res.cloudinary.com/anto8913/image/upload/v1621717011/2nd%20milestone-image/UX%20TESTING/testing-home_qcguvb.jpg) 
 
 2. As a first-time visitor I want easily and straight see the photos for to get an idea if is the right person for my purposes and see quikly what the website can offer me.
 
@@ -129,26 +129,27 @@ All devices wireframes PDF File [view] ()
       [View here](https://res.cloudinary.com/anto8913/image/upload/v1621717018/2nd%20milestone-image/UX%20TESTING/testing-home-photo-1_s1mzmp.jpg)
 
 
-    2. Directly inside the header, there is the post-production page, easy to catch with this brown chocolate hover colour that give a big contrast with the basic black colour. [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621717012/2nd%20milestone-image/UX%20TESTING/test-post-prod-1_vplpfl.jpg)
+    2. Directly inside the header, there is the post-production page, easy to catch with this brown chocolate hover colour that give a big contrast with the basic black colour [View here.](https://res.cloudinary.com/anto8913/image/upload/v1621717012/2nd%20milestone-image/UX%20TESTING/test-post-prod-1_vplpfl.jpg)
       The post-production page contains all services built on the centre of the page, straight to the user's eye and on the bottom, some interactive buttons are present to check the services price.
-      The hand click vector gif is present to make easily understand which action the user has to do to check the price. [View here] (https://res.cloudinary.com/anto8913/image/upload/v1621717008/2nd%20milestone-image/UX%20TESTING/testing-vector_xasyjf.jpg)
-       [View here] (https://res.cloudinary.com/anto8913/image/upload/v1621717019/2nd%20milestone-image/UX%20TESTING/test-post-prod-2_xndwpg.jpg)
-       [View here] (https://res.cloudinary.com/anto8913/image/upload/v1621717014/2nd%20milestone-image/UX%20TESTING/test-post-prod-3_kozw2e.jpg)
-       [View here] (https://res.cloudinary.com/anto8913/image/upload/v1621717015/2nd%20milestone-image/UX%20TESTING/test-post-prod-4_xqxsxp.jpg)
+      The hand click vector gif is present to make easily understand which action the user has to do to check the price. 
+       [View here,](https://res.cloudinary.com/anto8913/image/upload/v1621717008/2nd%20milestone-image/UX%20TESTING/testing-vector_xasyjf.jpg)
+       [View here,](https://res.cloudinary.com/anto8913/image/upload/v1621717019/2nd%20milestone-image/UX%20TESTING/test-post-prod-2_xndwpg.jpg)
+       [View here,](https://res.cloudinary.com/anto8913/image/upload/v1621717014/2nd%20milestone-image/UX%20TESTING/test-post-prod-3_kozw2e.jpg)
+       [View here](https://res.cloudinary.com/anto8913/image/upload/v1621717015/2nd%20milestone-image/UX%20TESTING/test-post-prod-4_xqxsxp.jpg)
 
 
 
 3. As a first-time visitor I want to know more about the website owner the experiences easily, clean and organized.
 
-    1. The more about me button does the job to introduce the website owner to the user [View here] (https://res.cloudinary.com/anto8913/image/upload/v1621717013/2nd%20milestone-image/UX%20TESTING/testing-home-intr_ppi31y.jpg)
+    1. The more about me button does the job to introduce the website owner to the user [View here](https://res.cloudinary.com/anto8913/image/upload/v1621717013/2nd%20milestone-image/UX%20TESTING/testing-home-intr_ppi31y.jpg)
       
        
        
-    2. The main area where the user can find more information is explained on my journey page easy to catch with hover colour. [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621717016/2nd%20milestone-image/UX%20TESTING/testing-myjourney-1_h5m0kp.jpg)
-       The page shows a map of where the owner has been with an open window google map method where you can find a small explanation about the location. [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621717018/2nd%20milestone-image/UX%20TESTING/testin-myjourney-infowindow_o4rvtx.jpg)
-       The places are easy to find with the presence of a markers clusterer. [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621717017/2nd%20milestone-image/UX%20TESTING/testing-myjourney-map_jtqd4l.jpg)
+    2. The main area where the user can find more information is explained on my journey page easy to catch with hover colour. [View here](https://res.cloudinary.com/anto8913/image/upload/v1621717016/2nd%20milestone-image/UX%20TESTING/testing-myjourney-1_h5m0kp.jpg)
+       The page shows a map of where the owner has been with an open window google map method where you can find a small explanation about the location. [View here](https://res.cloudinary.com/anto8913/image/upload/v1621717018/2nd%20milestone-image/UX%20TESTING/testin-myjourney-infowindow_o4rvtx.jpg)
+       The places are easy to find with the presence of a markers clusterer. [View here](https://res.cloudinary.com/anto8913/image/upload/v1621717017/2nd%20milestone-image/UX%20TESTING/testing-myjourney-map_jtqd4l.jpg)
     3. Below the map, is displayed one card for any countries.
-       Any card presents a button that is an internal link that thanks to him brings the user to discover more photos; how I said before, the photos are everywhere. [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621717012/2nd%20milestone-image/UX%20TESTING/testing-visitor-goal_iug73l.jpg)
+       Any card presents a button that is an internal link that thanks to him brings the user to discover more photos; how I said before, the photos are everywhere. [View here](https://res.cloudinary.com/anto8913/image/upload/v1621717012/2nd%20milestone-image/UX%20TESTING/testing-visitor-goal_iug73l.jpg)
 
 #### Returning visitor goals
 
@@ -156,23 +157,21 @@ All devices wireframes PDF File [view] ()
 
     1. For this purpose, the user can achieve it by looking at the big navbar, where is included the post-production page.
        Is catching easy by the mouse because big displayed, for the hover colour contrast and also because the nav-bar take all length page instead that some corners. [View-here] (url)
-    2. The post-production page welcomes the user with this big and engaging sentence. [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621717009/2nd%20milestone-image/UX%20TESTING/testing-engage-sentence_snwock.jpg)
-       Everything is in the middle of the page, so the user doesn't get confused and lost. [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621717019/2nd%20milestone-image/UX%20TESTING/test-post-prod-2_xndwpg.jpg)
+    2. The post-production page welcomes the user with this big and engaging sentence [View here.](https://res.cloudinary.com/anto8913/image/upload/v1621717009/2nd%20milestone-image/UX%20TESTING/testing-engage-sentence_snwock.jpg)
+       Everything is in the middle of the page, so the user doesn't get confused and lost. [View here](https://res.cloudinary.com/anto8913/image/upload/v1621717019/2nd%20milestone-image/UX%20TESTING/test-post-prod-2_xndwpg.jpg)
     3. The prices are introduced from the packages heading, also in the middle.
-       Some click interaction is present here and so easy to use thanks to the 2 vector gif that explain very well what to do. [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621717015/2nd%20milestone-image/UX%20TESTING/test-post-prod-4_xqxsxp.jpg).
+       Some click interaction is present here and so easy to use thanks to the 2 vector gif that explain very well what to do. [View here](https://res.cloudinary.com/anto8913/image/upload/v1621717015/2nd%20milestone-image/UX%20TESTING/test-post-prod-4_xqxsxp.jpg)
 
 2. As a returning visitor, I want to be in contact without any difficulty finding a clear and readeble form.
 
     1. There are two ways to be in contact: the envelope icon on the right side inside the head that brings the user to type and send an email straight, without scrolling to the bottom of every page in the website where is displayed the form. 
        The  form includes the owner contacts on top, in case the user feel more comfortable to call instead than to do the first approach by email and below the inputs, 
        easily displayed with these headings and placeholders that help the user to understand how to fill the fields.
-       [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621717583/2nd%20milestone-image/UX%20TESTING/testing-contact-envelop_fomzc2.jpg) 
-       [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621717010/2nd%20milestone-image/UX%20TESTING/testin-form_yltclg.jpg) 
+       [View here,](https://res.cloudinary.com/anto8913/image/upload/v1621717583/2nd%20milestone-image/UX%20TESTING/testing-contact-envelop_fomzc2.jpg) 
+       [View here](https://res.cloudinary.com/anto8913/image/upload/v1621717010/2nd%20milestone-image/UX%20TESTING/testin-form_yltclg.jpg) 
 
 
-    2. On the bottom, a textarea is present to allow the user to leave some important and precious notes, needfuls for the best result.
-
-      [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621717009/2nd%20milestone-image/UX%20TESTING/testing-textarea_kurvk9.jpg)
+    2. On the bottom, a textarea is present to allow the user to leave some important and precious notes, needfuls for the best result. [View here](https://res.cloudinary.com/anto8913/image/upload/v1621717009/2nd%20milestone-image/UX%20TESTING/testing-textarea_kurvk9.jpg)
 
 ### Frequent user goals
 
@@ -182,7 +181,7 @@ All devices wireframes PDF File [view] ()
        
        
     2. The easy to catch them is provided by the CSS3 transition hover effects that make the icons, on the mouse passage bigger and also with the high colour contrast.
-       500 px is present such as the first icon from the left, which brings the user to the most famous and recognized photography social website. [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621717010/2nd%20milestone-image/UX%20TESTING/testing-social_icons_a61bhr.jpg)
+       500 px is present such as the first icon from the left, which brings the user to the most famous and recognized photography social website. [View here](https://res.cloudinary.com/anto8913/image/upload/v1621717010/2nd%20milestone-image/UX%20TESTING/testing-social_icons_a61bhr.jpg)
 
      
 
@@ -212,7 +211,7 @@ The Lighthouse test was used to check the performance, best practices and access
 
 ##### Result
 
-1. As a result, I got the error: "Api error, your site URL to be authorized". Bug showed by console [View here:] (https://res.cloudinary.com/anto8913/image/upload/v1621631707/2nd%20milestone-image/testing/result-testing-map_uheceu.jpg)
+1. As a result, I got the error: "Api error, your site URL to be authorized". Bug showed by console [View here](https://res.cloudinary.com/anto8913/image/upload/v1621631707/2nd%20milestone-image/testing/result-testing-map_uheceu.jpg)
 
 ##### Fix
 
@@ -228,13 +227,13 @@ The Lighthouse test was used to check the performance, best practices and access
 ##### Result
 
 1. The result that I got was the (304) error, every time that I tried to send a request by the form.
-   [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621631708/2nd%20milestone-image/testing/result-email-js-2_lhrerr.jpg)
-   [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621631708/2nd%20milestone-image/testing/result-email-js-1_gep8s4.jpg)
+   [View here,](https://res.cloudinary.com/anto8913/image/upload/v1621631708/2nd%20milestone-image/testing/result-email-js-2_lhrerr.jpg)
+   [View here](https://res.cloudinary.com/anto8913/image/upload/v1621631708/2nd%20milestone-image/testing/result-email-js-1_gep8s4.jpg)
 
 ##### Fix
 
 1. After looking around the website and through the codes I noticed that when I copied and paste the form I didn't also paste the emailjs.init() method
-   with my user id inside [View-here] (https://res.cloudinary.com/anto8913/image/upload/v1621631707/2nd%20milestone-image/testing/fix-email-js-id_ozzn40.jpg).
+   with my user id inside [View here](https://res.cloudinary.com/anto8913/image/upload/v1621631707/2nd%20milestone-image/testing/fix-email-js-id_ozzn40.jpg).
    I fixed it to implement it everywhere.
 
 
@@ -254,7 +253,7 @@ The project was deployed to Github using the following steps.
 
 5. The page will automatically refresh.
 
-6. Scroll back down through the page to locate the now published site [link]( https://antoniotorone.github.io/GiorgioDiFrancesco-photography/)
+6. Scroll back down through the page to locate the now published site [link](https://antoniotorone.github.io/GiorgioDiFrancesco-photography/)
 
 ### Forking the GitHub Repository
 
@@ -268,25 +267,25 @@ The project was deployed to Github using the following steps.
 
 ### Code
 
-[FontAwesome] (https://fontawesome.com/)
+[FontAwesome](https://fontawesome.com/)
 
 The icons were taken form here 
 
-[Bootstrap-5.0:] (https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+[Bootstrap 5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 The navigation bar, buttons and grid system were taken here.
 
-[Google-maps-platform] (https://developers.google.com/maps/documentation/javascript/overview)
+[Google maps platform](https://developers.google.com/maps/documentation/javascript/overview)
 
 The map, infowindow, markers and clusterer methods come from here and the processing to implement only the map method mostly has been taken from the rosie project(part of Code institute course)
 
-[Emailjs] (https://www.emailjs.com/)
+[Emailjs](https://www.emailjs.com/)
 
 The email js, part of the form functionality come from here and for implement the function mostly I followed the rosie project.
 
 ### content
 
-All contents were written by the developer, only the vector.gif was taken from [giphy] (https://giphy.com/explore/vector)
+All contents were written by the developer, only the vector.gif was taken from [giphy](https://giphy.com/explore/vector)
 
 ### media
 
