@@ -196,10 +196,10 @@ All devices wireframes PDF File [view](https://github.com/antoniotorone/GiorgioD
 The W3C Markup Validator  W3C CSS validator and JAVASCRIPT services were used to validate every page and ensure there were no syntax errors in the project. 
 The Lighthouse test was used to check the performance, best practices and accessibility.
 
-[]
-[]
-[]
-[]
+[W3C Markup Validator results](https://github.com/antoniotorone/GiorgioDiFrancesco-photography/tree/master/Documentation/Validation/Validation-test-PDF)
+[W3C CSS Validator result](https://github.com/antoniotorone/GiorgioDiFrancesco-photography/blob/master/Documentation/Validation/Validation-test-PDF/CSS.style.pdf)
+[Java Script validator results](https://github.com/antoniotorone/GiorgioDiFrancesco-photography/tree/master/Documentation/Validation/Validation-test-PDF)
+[Lighthouse test]()
 
 ### Manual Testing
 
