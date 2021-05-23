@@ -199,7 +199,7 @@ The Lighthouse test was used to check the performance, best practices and access
 [W3C Markup Validator results](https://github.com/antoniotorone/GiorgioDiFrancesco-photography/tree/master/Documentation/Validation/Validation-test-PDF)
 [W3C CSS Validator result](https://github.com/antoniotorone/GiorgioDiFrancesco-photography/blob/master/Documentation/Validation/Validation-test-PDF/CSS.style.pdf)
 [Java Script validator results](https://github.com/antoniotorone/GiorgioDiFrancesco-photography/tree/master/Documentation/Validation/Validation-test-PDF)
-[Lighthouse test]()
+[Lighthouse test](https://github.com/antoniotorone/GiorgioDiFrancesco-photography/blob/master/Documentation/Validation/Validation-test-PDF/Lighthouse-test.pdf)
 
 ### Manual Testing
 
