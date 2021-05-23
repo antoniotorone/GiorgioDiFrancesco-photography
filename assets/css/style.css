@@ -6,16 +6,12 @@ body {
 
 /*INDEX.HTML*/
 
-
-
-
 /*header*/
 
 header {
     background: linear-gradient(to bottom, rgb(255, 255, 255), rgb(146, 143, 143, 0.5));
 
 }
-
 
 
 /*icons*/
@@ -26,7 +22,6 @@ header {
     font-size: 40px;
     color: black;
     text-decoration: none;
-
 }
 
 .head i {
@@ -44,12 +39,13 @@ i.fab:hover {
     transform: scale(2);
 }
 
-/*logo*/
 
+/*logo*/
 
 .head img {
     margin-left: 10.5rem;
 }
+
 
 /*button*/
 
@@ -64,27 +60,18 @@ i.fab:hover {
     text-align: justify;
     font-weight: 900;
     padding-bottom: 25px;
-
-
 }
-
 
 
 /*navbar*/
 
-
-
 .nav a:hover {
     color: chocolate;
-
 }
 
 .nav a:active {
     color: white
 }
-
-
-
 
 
 /*photography*/
@@ -111,48 +98,30 @@ i.fab:hover {
 }
 
 
-
-
-
-
-
-
-
 /*copyrhight*/
 
 .copyright {
-
     color: black;
     padding: 0;
     padding-top: 25px;
     font-size: x-small;
 }
 
+
 /*POST PRODUCTION*/
 
-/*header*/
-
-
-
-
-
+/*Post Production-Services*/
 
 .post-production {
     text-align: center;
     padding: 25px 12.5rem 0 12.5rem;
-
-
-
 }
-
 
 /*Packages-Prices*/
 
 .packages {
     text-align: center;
     margin-top: 25px;
-
-
 }
 
 
@@ -166,17 +135,15 @@ i.fab:hover {
     padding-bottom: 25px
 }
 
-
 /*MY JOURNEY*/
 
 /*map*/
 
 #map {
     height: 720px;
-
 }
 
-/*countries*/
+/*photos-countries*/
 
 .display-country {
     display: flex;
@@ -185,12 +152,9 @@ i.fab:hover {
 
 }
 
-
-/*countries-card*/
-
+/*countries-effects*/
 
 .card {
-
     height: 360px;
     padding: 2rem;
     background: #fff;
@@ -202,9 +166,7 @@ i.fab:hover {
 }
 
 .card:hover {
-
     transform: translateY(25px);
-
 }
 
 .card:before {
@@ -219,8 +181,6 @@ i.fab:hover {
     z-index: 2;
     transition: 0.5s all;
     opacity: 0;
-
-
 }
 
 .card:hover:before {
@@ -256,7 +216,6 @@ i.fab:hover {
 }
 
 .card .info p {
-
     font-size: smaller;
     margin-top: 10px;
     text-align: left;
@@ -271,8 +230,6 @@ i.fab:hover {
     font-weight: bold;
     cursor: pointer;
     transition: 0.4s ease-in-out;
-
-
 }
 
 .card .info .btn:hover {
@@ -280,25 +237,9 @@ i.fab:hover {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media only screen and (max-width:576px) {
 
-
     /*INDEX.HTML*/
-
 
     /*icons*/
 
@@ -307,13 +248,10 @@ i.fab:hover {
     }
 
     .head a {
-
         font-size: 15px;
         color: black;
         text-decoration: none;
-
     }
-
 
     /*logo*/
 
@@ -321,9 +259,6 @@ i.fab:hover {
         margin-left: 0;
         padding-left: 0
     }
-
-
-
 
     /*button*/
 
@@ -350,17 +285,14 @@ i.fab:hover {
 
     #home {
         margin-left: 40px;
-
     }
 
     #myjourney {
         margin-left: 28px;
-
     }
 
     #postproduction {
         margin-left: 20px;
-
     }
 
 
@@ -369,13 +301,11 @@ i.fab:hover {
     #email {
         margin-right: 5px;
         font-size: 40px;
-
     }
 
     #phone {
         margin-right: 10px;
         font-size: 30px;
-
     }
 
     .footer a {
@@ -412,17 +342,13 @@ i.fab:hover {
         padding-top: 25px;
         font-size: xx-small;
         font-weight: lighter;
+        margin-left: 15px;
     }
 
 
     /*POST PRODUCTION*/
 
-    /*header*/
-
-
-
-
-    /*post-production section*/
+    /*post-production services*/
 
     .post-production {
         margin-top: 15px;
@@ -470,21 +396,8 @@ i.fab:hover {
         display: block;
     }
 
-
-
-
-    .form {
-        margin: 0;
-    }
-
-
-
-
-
-
-
-
 }
+
 
 @media only screen and (min-width:768px) {
 
@@ -498,15 +411,12 @@ i.fab:hover {
 
     }
 
-
-
     /*button*/
 
     .about-me {
         font-size: larger;
         margin: 10px 0px 10px 19.37rem;
     }
-
 
     /*navbar*/
 
@@ -520,19 +430,15 @@ i.fab:hover {
 
     #home {
         margin-left: 110px;
-
     }
 
     #myjourney {
         margin-left: 68px;
-
     }
 
     #postproduction {
         margin-left: 40px;
-
     }
-
 
     /*footer*/
 
@@ -550,7 +456,6 @@ i.fab:hover {
     #phone {
         font-size: 40px;
         margin-right: 35px;
-
     }
 
     /*form*/
@@ -574,18 +479,6 @@ i.fab:hover {
     /*POST PRODUCTION*/
 
     /*header*/
-
-
-    /*icons*/
-
-    .icons {
-        padding-top: 0;
-    }
-
-
-
-
-
 
     .logo {
         text-align: center;
@@ -613,7 +506,6 @@ i.fab:hover {
 
     /*MY JOURNEY*/
 
-
     /*map*/
 
     #map {
@@ -621,7 +513,7 @@ i.fab:hover {
     }
 
 
-    /*countries-card*/
+    /*countries-effects*/
 
     .card .info p {
 
@@ -629,11 +521,6 @@ i.fab:hover {
         margin-top: 10px;
         text-align: left;
     }
-
-
-
-
-
 
 }
 
@@ -643,7 +530,6 @@ i.fab:hover {
     /*INDEX.HTML*/
 
     /*icons*/
-
 
     .icons {
         padding-top: 25px;
@@ -670,34 +556,27 @@ i.fab:hover {
         padding-bottom: 50px;
     }
 
-    
-#home {
-    margin-left: 160px;
 
-}
+    #home {
+        margin-left: 160px;
 
-#myjourney {
-    margin-left: 150px;
+    }
 
-}
+    #myjourney {
+        margin-left: 150px;
 
-#postproduction {
-    margin-left: 180px;
+    }
 
-}
+    #postproduction {
+        margin-left: 180px;
+
+    }
 
 
-
-    /*Footer*/
-
-    /*form*/
-
-    /*textarea*/
+    /*footer-form*/
 
     .form-control {
         width: 50%;
-
-
     }
 
 
@@ -724,16 +603,11 @@ i.fab:hover {
 
     /*MY JOURNEY*/
 
-    /*countries-card*/
+    /*countries-effects*/
 
     .card .info p {
-
         font-size: smaller;
         margin-top: 10px;
         text-align: left;
     }
-
-
-
-
 }

@@ -1,3 +1,6 @@
+
+/* This is the callback function from my journey page. Inside the function, I call google. maps.Map method from google platform and call
+   the div where I want to store the map  */
 function initMap() {
     var map = new google.maps.Map(document.getElementById("map"), {
         zoom: 3,
@@ -119,8 +122,8 @@ function initMap() {
 
 
 
-
-
+// The .map method works like a for loop and returns the position with the location and the marker by looping inside the label array //
+ 
     var markers = locations.map(function (location, i) {
         return new google.maps.Marker({
             position: location.location,
@@ -129,6 +132,7 @@ function initMap() {
         });
     });
 
+//The infowindow method help to display a content regarding the location//
     let infowindow; 
 
     for (let marker of markers) {
@@ -142,12 +146,12 @@ function initMap() {
                     // create an infoWindow using location.name
                     infowindow = new google.maps.InfoWindow({
                         content: location.info
-                    })
+                    });
                     // display the infoWindow
-                    infowindow.open(map, marker)
+                    infowindow.open(map, marker);
                 }
             }
-        })
+        });
     }
 
 

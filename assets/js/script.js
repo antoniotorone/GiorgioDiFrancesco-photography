@@ -3,6 +3,8 @@ $(document).ready(function () {
 
     /*INDEX.HTML*/
 
+    //with jquery I called the element button and put an add listener with an toggle effect// 
+
     $("button").click(function () {
         $("#about").toggle("medium");
     });
@@ -11,6 +13,8 @@ $(document).ready(function () {
     /*POST PRODUCTION.HTML*/
 
     /*Packages*/
+
+    //With jquery I called differents buttons by Id and add an events listener plus an effects//
 
     $("#copper").click(function () {
         $("#package-1").toggle('medium').text("Photo retouching , Illustration and Coloring");

@@ -236,6 +236,12 @@ The Lighthouse test was used to check the performance, best practices and access
    with my user id inside [View here](https://res.cloudinary.com/anto8913/image/upload/v1621631707/2nd%20milestone-image/testing/fix-email-js-id_ozzn40.jpg).
    I fixed it to implement it everywhere.
 
+### Known Bugs
+
+1. During the testing process, I noticed that the transition CSS effect [view here,](https://res.cloudinary.com/anto8913/image/upload/v1621717012/2nd%20milestone-image/UX%20TESTING/testing-visitor-goal_iug73l.jpg) on my journey page does not work on the Safari browser for phone and iPad, so the user can't discover more photos and not be able to log into the internal links. 
+   I tried to fix it, finding some resources on the web, asked questions but in the end, I preferred to leave the bug and include it inside the readme.
+   On Chrome, Microsoft Edge and Opera responds very well but not in safari
+
 
 ## Deployment
 
